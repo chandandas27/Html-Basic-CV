@@ -1,0 +1,25 @@
+body{
+             background-color:#d3f4ff;
+
+}
+
+  h1{
+  color:#ef4b4b;
+
+  }
+  h3{
+
+   color:#ef4b4b;
+
+  }
+
+   hr{
+     border-color: #cd4dcc;
+     border-style:  none;
+     border-top-style: dotted;
+     border-width: 2px;
+     width: 40%;
+   }
+   img{
+     height:250px;
+   }
